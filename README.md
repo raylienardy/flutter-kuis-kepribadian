@@ -30,9 +30,6 @@ Dibangun sebagai proyek belajar Flutter tiga tahun lalu, kini diperbarui agar ko
    git clone https://github.com/<username>/flutter-kuis-kepribadian.git
    cd flutter-kuis-kepribadian
    ```
-
-````
-
 3. Jalankan:
    ```bash
    flutter pub get
@@ -115,4 +112,3 @@ lib/
 ## 📝 Lisensi
 
 Proyek ini dibuat untuk pembelajaran. Silakan digunakan sesuai kebutuhan.
-````
