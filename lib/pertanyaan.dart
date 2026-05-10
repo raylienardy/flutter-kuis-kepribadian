@@ -1,23 +1,17 @@
 import 'package:flutter/material.dart';
 
 class Pertanyaan extends StatelessWidget {
-  // const Pertanyaan({super.key});
-
-  var pertanyaan;
-  Pertanyaan(this.pertanyaan);
+  final String pertanyaan;
+  const Pertanyaan(this.pertanyaan, {super.key});
 
   @override
   Widget build(BuildContext context) {
-    // membungkus Text didalam Container
     return Container(
-      // container untuk mengambil ukuran seluruh layar hp
-      width: double.infinity, // mengambil width dari ujung kiri sampai kanan
-      margin: EdgeInsets.all(10),
-
-      //
+      width: double.infinity,
+      margin: const EdgeInsets.all(10),
       child: Text(
         pertanyaan,
-        style: TextStyle(fontSize: 20), // cara styling di flutter
+        style: const TextStyle(fontSize: 20),
         textAlign: TextAlign.center,
       ),
     );
