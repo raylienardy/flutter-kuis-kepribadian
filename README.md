@@ -8,10 +8,10 @@ Dibangun sebagai proyek belajar Flutter tiga tahun lalu, kini diperbarui agar ko
 
 <!-- Ganti dengan tangkapan layarmu sendiri, usahakan tiga gambar berjejer horizontal -->
 <p align="center">
-  <img src="preview/01.png" alt="Tampilan Pertama" width="30%">
-  <img src="preview/02.png" alt="Tampilan Kedua" width="30%">
-  <img src="preview/03.png" alt="Tampilan Ketiga" width="30%">
-  <img src="preview/04.png" alt="Tampilan Keempat" width="30%">
+  <img src="preview/01.png" alt="Tampilan Pertama" width="50%">
+  <img src="preview/02.png" alt="Tampilan Kedua" width="50%">
+  <img src="preview/03.png" alt="Tampilan Ketiga" width="50%">
+  <img src="preview/04.png" alt="Tampilan Keempat" width="50%">
 </p>
 
 ## ✨ Fitur
